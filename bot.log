@@ -1,0 +1,2 @@
+{"ts": 1754682109.3441303, "level": "INFO", "msg": "Attempting MARKET order BUY BTCUSDT qty=0.002"}
+{"ts": 1754682109.3449452, "level": "INFO", "msg": "Order result: {'status': 'SIMULATED', 'order': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}}"}
